@@ -1,1 +1,0 @@
-La clase que verifica un número si un número es positivo o negativo está en el mismo proyecto: MayorMenorTresNumeros
